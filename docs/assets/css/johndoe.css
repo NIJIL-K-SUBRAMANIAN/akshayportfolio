@@ -7142,13 +7142,14 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #F85C70 !important;
+  background-color: #FAD02C   !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #f62b45 !important;
+  background-color: black !important;
+  color: yellow;
 }
 
 .bg-secondary {
@@ -7192,7 +7193,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #F85C70 !important;
+  background-color: #FAD02C  !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -10817,7 +10818,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #F85C70 !important;
+  color: #FAD02C   !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -11006,7 +11007,7 @@ p {
   display: block;
   width: 25px;
   height: 1.5px;
-  background-color: #F85C70;
+  background-color: #FAD02C;
 }
 
 .breadcrumb {
@@ -11385,10 +11386,11 @@ pre .code {
 
 .social-icons .social-link {
   font-size: 18px;
+  color: #FAD02C;
 }
 
 .social-icons .social-link:hover {
-  color: #F85C70;
+  color: black;
 }
 
 .navbar {
@@ -11410,7 +11412,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #F85C70 !important;
+  color: #FAD02C !important;
 }
 
 .navbar .brand {
